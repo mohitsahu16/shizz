@@ -15,8 +15,8 @@ Event Organization and Engagement: Organizations can create events on the platfo
 Shizz is built using a stack that includes Node.js and Express for the backend, MongoDB for the database, and HTML, CSS, and JavaScript for the frontend. The platform utilizes Mongoose as an ORM for MongoDB and provides a responsive frontend using React for an enhanced user experience. The system is designed to be scalable, secure, and user-friendly, providing a seamless event experience for both participants and organizers.
 
 # Features
-User-friendly interface for easy event creation and management.
-Real-time chat functionality for seamless communication.
-Custom group creation with personalized recommendations.
-Robust matching algorithm for effective companionship suggestions.
+User-friendly interface for easy event creation and management.<br>
+Real-time chat functionality for seamless communication.<br>
+Custom group creation with personalized recommendations.<br>
+Robust matching algorithm for effective companionship suggestions.<br>
 Mobile responsiveness for access on the go.
