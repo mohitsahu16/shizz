@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  padding-top: 0;
+}
+
+/* .item{
+  color:white;
+} */
+nav .navbar-nav li a {
+  color: white !important;
+}
+
+nav .navbar-nav li a:hover {
+  color: grey !important;
+}
+
+a.navbar-brand:hover {
+  color: grey !important;
+}
+
+.section2 {
+  padding: 5%;
+  text-align: center;
+  background-color:white;
+}
+
+.section3 {
+  padding: 2%;
+  color: white;
+  text-align: center;
+}
+.inspire{
+  font-family: "Roboto Slab", serif;
+  font-weight: 800;
+  font-size: 2rem;
+  width:50%;
+  margin-left:25%;
+  color:bisque;
+}
+
+.text {
+  text-align: left;
+}
+
+.tagline{
+  margin-left: 35%;
+  font-family: "Roboto Slab", serif;
+}
+.focus{
+  color:black;
+}
+
+.tech:hover img {
+  filter: none;
+  -webkit-filter: grayscale(0);
+  -webkit-transform: scale(1.01);
+}
+
+.tech img {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  transition: all .4s ease-in-out;
+}
+.move{
+  position: relative;
+  top:200px;
+}
+
+.arrow{
+  margin-right: 65%;
+  max-width: 10%;
+}
+
+
+
+.footer {
+  background-color: #FAF9F6;
+}
+
+.footer .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+  gap: 2rem;
+}
+
+.footer .box-container .box {
+  width: 300px;
+  margin: 1px 100px;
+}
+
+.footer .box-container .box h3 {
+  font-size: 2rem;
+  color: #000000;
+  padding: 1rem 0;
+}
+
+.footer .box-container .box a {
+  display: block;
+  font-size: 1rem;
+  color: #808080;
+  padding: 1rem 0;
+  text-decoration: none;
+}
+
+.footer .box-container .box a i {
+  padding-right: .5rem;
+  color: #02A8A8;
+}
+
+.footer .box-container .box a:hover i {
+  padding-right: 2rem;
+}
+
+.footer .credit {
+  padding: 1rem;
+  padding-top: 2rem;
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 1.7rem;
+  color: #808080;
+  border-top: .1rem solid rgba(0, 0, 0, .1);
+}
+
+.footer .credit span {
+  color: #02A8A8;
+}
